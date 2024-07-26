@@ -23,9 +23,9 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <h1 className="h1 mb-6">
-            Uncover the Potential of&nbsp;AI&nbsp;Chatting with {` `}
+            About&nbsp;the&nbsp;Biggest {` `}
             <span className="inline-block relative">
-              Cerebro{" "}
+              Festival{" "}
               <img
                 src={curve}
                 className="absolute top-full left-0 w-full xl:-mt-2"
@@ -36,8 +36,10 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            Unleash the power of AI within Cerebro. Revolutionize productivity,
-            with Cerebro, the open AI-powered chat app.
+            The Biggest Festival is a vibrant celebration of music, art, and
+            culture, bringing together people from all walks of life. Our
+            mission is to create an inclusive and joyous environment where
+            everyone can enjoy the best in entertainment, food, and creativity.
           </p>
           <Button href="/pricing" white>
             Let&apos;s Begin
@@ -50,7 +52,7 @@ const Hero = () => {
 
               <div className="aspect-[33/40] rounded-b-[0.9rem] overflow-hidden md:aspect-[688/490] lg:aspect-[1024/490]">
                 <img
-                  src={robot}
+                  src={"/src/assets/images/festrem2.jpg"}
                   className="w-full scale-[1.7] translate-y-[8%] md:scale-[1] md:-translate-y-[10%] lg:-translate-y-[23%]"
                   width={1024}
                   height={490}
@@ -72,7 +74,7 @@ const Hero = () => {
                 <ScrollParallax isAbsolutelyPositioned>
                   <Notification
                     className="hidden absolute -right-[5.5rem] bottom-[11rem] w-[18rem] xl:flex"
-                    title="Code generation"
+                    title="Operation Have Fun"
                   />
                 </ScrollParallax>
               </div>
