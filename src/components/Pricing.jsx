@@ -27,7 +27,7 @@ const Pricing = () => {
           </div>
         </div>
 
-        <Heading tag="Get started with Cerebro" title="Pay once, use forever" />
+        <Heading tag="Get Your Tickets" title="Pay once, Have fun" />
 
         <div className="relative">
           <PricingList />

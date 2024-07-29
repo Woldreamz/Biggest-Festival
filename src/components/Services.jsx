@@ -16,8 +16,8 @@ const Services = () => {
     <Section id="how-to-use">
       <div className="container">
         <Heading
-          title="Generative AI made for creators."
-          text="Cerebro unlocks the potential of AI-powered applications"
+          title="Festival Gallery"
+          text="Relive the magic of the Biggest Festival through our gallery. Browse through stunning photos and videos that capture the essence of our event."
         />
 
         <div className="relative">
@@ -25,9 +25,9 @@ const Services = () => {
             <div className="absolute top-0 left-0 w-full h-full pointer-events-none md:w-3/5 xl:w-auto">
               <img
                 className="w-full h-full object-cover md:object-right"
-                width={800}
+                width={1000}
                 alt="Smartest AI"
-                height={730}
+                height={800}
                 src={service1}
               />
             </div>

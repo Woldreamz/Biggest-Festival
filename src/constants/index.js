@@ -49,12 +49,12 @@ export const navigation = [
   },
   {
     id: "2",
-    title: "Become a Vendor",
+    title: "Gallery",
     url: "#how-to-use",
   },
   {
     id: "3",
-    title: "Register",
+    title: "Become a Vendor",
     url: "#roadmap",
   },
   {
@@ -128,21 +128,32 @@ export const roadmap = [
 ];
 
 export const collabText =
-  "With smart automation and top-notch security, it's the perfect solution for teams looking to work smarter.";
+  "Showcase your products and services to thousands of festival-goers. Becoming a vendor at the Biggest Festival is a fantastic opportunity to reach a wide audience and grow your business.";
+
+export const collabText1 =
+  "Enjoy prime location spaces, marketing support, and access to festival amenities.";
+
+export const collabText2 =
+  "Submit your vendor application through our online form. Limited spots are available, so apply early!";
+
+export const collabText3 =
+  "Gain exposure, connect with potential customers, and be part of an exciting event.";
 
 export const collabContent = [
   {
     id: "0",
-    title: "Seamless Integration",
-    text: collabText,
+    title: "Why Become a Vendor?",
+    text: collabText3,
   },
   {
     id: "1",
-    title: "Smart Automation",
+    title: "Vendor Benefits",
+    text: collabText1,
   },
   {
     id: "2",
-    title: "Top-notch Security",
+    title: "How to Apply",
+    text: collabText2,
   },
 ];
 
@@ -209,34 +220,34 @@ export const pricing = [
   {
     id: "0",
     title: "Basic",
-    description: "AI chatbot, personalized recommendations",
-    price: "0",
+    description: "General Access!",
+    price: "3K",
     features: [
-      "An AI chatbot that can understand your queries",
-      "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "Access to all general areas",
+      "Access to all general activities",
+      "Ability to explore the features on ground without any cost",
     ],
   },
   {
     id: "1",
-    title: "Premium",
-    description: "Advanced AI chatbot, priority support, analytics dashboard",
-    price: "9.99",
+    title: "VIP",
+    description: "Enjoy premium access!",
+    price: "8K",
     features: [
-      "An advanced AI chatbot that can understand complex queries",
-      "An analytics dashboard to track your conversations",
-      "Priority support to solve issues quickly",
+      "Enjoy premium access",
+      "Enjoy premium access to the VIP lounge",
+      "Priority support and access to exclusive amenities",
     ],
   },
   {
     id: "2",
-    title: "Enterprise",
-    description: "Custom AI chatbot, advanced analytics, dedicated account",
-    price: "19.99",
+    title: "V VIP",
+    description: "Enjoy ultimate festival experience!",
+    price: "20K",
     features: [
-      "An AI chatbot that can understand your queries",
+      "Experience the ultimate festival luxury",
       "Personalized recommendations based on your preferences",
-      "Ability to explore the app and its features without any cost",
+      "With all-inclusive perks and backstage",
     ],
   },
 ];
