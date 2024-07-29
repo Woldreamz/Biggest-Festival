@@ -78,9 +78,9 @@ export const notificationImages = [notification4, notification3, notification2];
 export const companyLogos = [yourlogo];
 
 export const brainwaveServices = [
-  "Photo generating",
-  "Photo enhance",
-  "Seamless Integration",
+  "Vibrant Moments",
+  "Colorful Vibes",
+  "Radiant Smiles",
 ];
 
 export const brainwaveServicesIcons = [
