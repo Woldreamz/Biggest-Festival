@@ -9,7 +9,7 @@ const Home = () => {
     <div className="min-h-screen relative overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src={"/src/assets/images/festrem2.jpg"}
+          src={festrem}
           alt="Concert"
           className="w-full h-full object-cover blur-md"
         />
@@ -19,7 +19,7 @@ const Home = () => {
         <div className="dark:bg-slate-600 w-full max-w-6xl rounded-lg overflow-hidden shadow-lg">
           <div className="relative">
             <img
-              src={"/src/assets/images/festrem2.jpg"}
+              src={festrem}
               alt="Concert"
               className="w-full h-[50vh] md:h-[80vh] object-cover"
             />
