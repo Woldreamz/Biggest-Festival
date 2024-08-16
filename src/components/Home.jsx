@@ -9,7 +9,7 @@ const Home = () => {
     <div className="min-h-screen relative overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src={festrem}
+          src={"/src/assets/images/festrem2.jpg"}
           alt="Concert"
           className="w-full h-full object-cover blur-md"
         />
