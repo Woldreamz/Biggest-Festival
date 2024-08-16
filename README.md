@@ -1,4 +1,4 @@
-# <h3 align="center">Biggest Festival Web Application</h3>
+ <h1 align="center">Biggest Festival Web Application</h1>
 
 <div align="center">
      Welcome to the Biggest Festival Web Application! This project provides a dynamic, immersive platform where users can explore festival activities, register as attendees or vendors, and purchase tickets. The application integrates 3D effects, a responsive design, and smooth animations to enhance user experience.
