@@ -39,7 +39,7 @@ const Hero = () => {
             The Biggest Festival is a vibrant celebration of sports, music and
             culture, bringing together people from all walks of life. Our
             mission is to create an inclusive and joyous environment where
-            everyone can enjoy the best in entertainment, food, and creativity.
+            everyone can enjoy the best in sports, entertainment and creativity.
           </p>
           <Button href="/pricing" white>
             Let&apos;s Begin

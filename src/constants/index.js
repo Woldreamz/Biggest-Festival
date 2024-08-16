@@ -255,7 +255,7 @@ export const pricing = [
 export const benefits = [
   {
     id: "0",
-    title: "Live Music",
+    title: "Sports Events",
     text: "Experience electrifying performances from top artists and bands.",
     backgroundUrl: "assets/benefits/card-1.svg",
     iconUrl: benefitIcon1,
@@ -289,7 +289,7 @@ export const benefits = [
   },
   {
     id: "4",
-    title: "Family Fun",
+    title: "Live Music",
     text: "Enjoy activities and workshops designed for families and kids.",
     backgroundUrl: "assets/benefits/card-5.svg",
     iconUrl: benefitIcon1,
