@@ -1,5 +1,6 @@
 import React from "react";
 import Countdown from "./Countdown";
+import { festrem } from "../assets";
 
 const Home = () => {
   const targetDate = "2024-08-20T23:59:59";
@@ -8,7 +9,7 @@ const Home = () => {
     <div className="min-h-screen relative overflow-hidden">
       <div className="absolute inset-0">
         <img
-          src={"/src/assets/images/festrem2.jpg"} // Update the path to your image
+          src={festrem} // Update the path to your image
           alt="Concert"
           className="w-full h-full object-cover blur-md"
         />

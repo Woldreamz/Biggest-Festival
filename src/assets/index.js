@@ -23,6 +23,7 @@ import background from "./background.jpg";
 import white from "./white.png";
 import purple from "./purple.png";
 import whiteman from "./whiteman.png";
+import festrem from "./festrem2.jpg";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
@@ -81,6 +82,7 @@ import twitter from "./socials/twitter.svg";
 export {
   brainwave,
   white,
+  festrem,
   purple,
   whiteman,
   check,
