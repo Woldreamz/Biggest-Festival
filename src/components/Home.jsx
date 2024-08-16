@@ -40,7 +40,7 @@ const Home = () => {
               <p className="text-white">
                 Welcome to the heart of the Biggest Festival! <br />
                 Get ready to dive into an array of exhilarating activities that
-                promise to entertain, engage, and excite. <br />
+                promise to entertain, engage and excite. <br />
                 Whether you&apos;re a thrill-seeker, a music lover, or a foodie,
                 our festival has something special for everyone.
               </p>
