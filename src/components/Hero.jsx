@@ -36,7 +36,7 @@ const Hero = () => {
             </span>
           </h1>
           <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
-            The Biggest Festival is a vibrant celebration of music, art, and
+            The Biggest Festival is a vibrant celebration of sports, music and
             culture, bringing together people from all walks of life. Our
             mission is to create an inclusive and joyous environment where
             everyone can enjoy the best in entertainment, food, and creativity.
